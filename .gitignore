@@ -1,0 +1,38 @@
+# Vivado project generated files
+*.jou
+*.log
+*.str
+*.wdb
+*.pb
+*.rpt
+*.html
+*.xml
+*.xpr
+*.xci
+*.ip_user_files/
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.data/
+*.temp/
+*.webtalk/
+*.xgui/
+*.Xil/
+
+# OS and IDE junk
+.DS_Store
+Thumbs.db
+~$*
+*.swp
+
+# Temporary build files
+*.d
+*.o
+*.out
+*.vdb
+
+# User files
+*.backup
+*.bak
+*.tmp
